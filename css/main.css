@@ -1,0 +1,724 @@
+* {
+margin:-9px;
+padding:0px;
+outline:none;
+border: 0px;
+}
+
+#body{
+  background:#e2e2e2;
+}
+
+
+#container {
+margin: 0px auto;
+width: 1170px;
+height: auto;
+background:#ffffff;
+}
+
+.menu {
+
+    width: 1170px;
+    height: 51px;
+    background: #828ec3;
+    margin: 0px auto;
+    position: fixed;
+     z-index: 99;
+    opacity: .9;
+    
+}
+ #logo {
+    margin: 7px auto auto 63px;
+    position: relative;
+    z-index: 2;
+    
+     }
+
+
+ 
+ 
+
+ #m1 {margin: 9px auto auto 254px;
+    position: relative;
+    z-index: 2;}
+
+
+  #m2 {margin: 9px auto auto 30px;
+    position: relative;
+    z-index: 2;}
+
+
+    #m3 {margin: 0px auto auto 30px;
+    position: relative;
+    z-index: 2;}
+
+
+    #m4 {margin: 3px auto auto 30px;
+    position: relative;
+    z-index: 2;}
+
+      #k1 {margin: 17px auto auto 112px;
+    position: absolute;
+    z-index: 2;}
+
+
+.first   
+ {
+ width: 1170px;
+ height: 816px;
+ background:#46f2a3;
+ margin: 0px auto;
+ position: relative;
+  z-index: 0;
+
+    
+ }
+    .monitor {
+    margin: -339px auto auto 109px;
+    position: relative;
+    z-index: 3;
+    }
+
+.img_mon {
+   margin: -288px auto auto -946px;
+    position: absolute;
+    z-index: 4;
+}
+.svl{
+   margin: 278px auto auto 10px;
+    position: relative;
+    z-index: 5;
+}
+
+.svp{
+   margin: -150px  auto auto -1px ;
+    position: absolute;
+    z-index: 5;
+}
+
+#ilu_1 {
+ 
+    margin: 9px  auto auto 9px  ;
+        
+    
+}
+
+
+#kup1{
+ 
+    margin: 14px  auto auto 9px  ;
+        
+        }
+
+#kup1_F_kn {
+  margin: -27px  auto auto 364px;
+    position: absolute;
+    z-index: 5;
+}
+
+#knkup2 { 
+    margin: 77px  auto auto -682px;
+    position: absolute;
+    z-index: 8;}
+
+
+
+#partfolio
+{
+    width: 1170px;
+    height: 886px;
+    background:#ffffff;
+    margin: 5px  auto auto 0px  ;
+    position: relative;
+    z-index: 0;
+}
+
+#ik1 {
+    margin: 173px  auto auto 125px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+#ik2 {
+    margin: 173px  auto auto 490px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ik3 {
+    margin: 173px  auto auto 855px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ik4 {
+    margin: 495px  auto auto 125px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ik5 {
+    margin: 532px  auto auto 490px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ik6 {
+    margin: 532px  auto auto 855px  ;
+    position: absolute;
+    z-index: 0;
+}
+        
+
+
+
+        #kup3
+         {
+     width: 1170px;
+    height: 294px;
+    background:#fff569;
+    margin: 0px  auto auto 0px  ;
+    position: relative;
+    z-index: 0;
+}
+        #kn3{
+    margin: 175px  auto auto 475px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+
+
+
+#raboty{
+      width: 1170px;
+    height: 1808px;
+    background:#ffffff;
+    margin: 0px  auto auto 0px  ;
+    position: absolute;
+    z-index: 0;
+}
+    #rab1{
+    margin: 165px  auto auto 70px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+#rab2{
+    margin: 165px  auto auto 441.5px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab3{
+    margin: 165px  auto auto 815px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab4{
+    margin: 698px  auto auto 70px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab5{
+    margin: 698px  auto auto 441.5px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab6{
+    margin: 698px  auto auto 815px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab7{
+    margin: 1228px  auto auto 70px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab8{
+    margin: 1228px  auto auto 441.5px  ;
+    position: absolute;
+    z-index: 0;
+}
+#rab9{
+    margin: 1228px  auto auto 815px  ;
+    position: absolute;
+    z-index: 0;
+}
+#sleid1{
+    margin: 1696px  auto auto 441px  ;
+    position: absolute;
+    z-index: 0;
+}
+#sleid2{
+    margin: 1696px  auto auto 556px  ;
+    position: absolute;
+    z-index: 0;
+}
+#sleid3{
+    margin: 1696px  auto auto 665px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+
+        #anim2{
+        
+    width: 1170px;
+    height: 586px;
+    backgro und:#828ec3;
+    margin: 1808px  auto auto 0px  ;
+    position: relative;
+    
+        }
+
+.an2 {
+     margin: 0px  auto auto 9px  ;
+    position: absolute;
+    z-index: 0;
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+.an2:hover {
+     margin: 0px  auto auto 9px  ;
+    position: absolute;
+    z-index: 0;
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+.an3 {
+     margin: 0px  auto auto 9px  ;
+    position: absolute;
+    z-index: 0;
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+.an3:hover {
+     margin: 0px  auto auto 9px  ;
+    position: absolute;
+    z-index: 0;
+     opacity:0;
+    filter:alpha (opacity=0);
+}
+#knkup3 {
+    margin: 258px  auto auto 474px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+#futer{
+    width: 1170px;
+    height: 165px;
+    background:#4b4e5f;
+    margin: -18px  auto auto 0px  ;
+    position: relative;
+    z-index: 0;
+}
+#ikonka_futer1{
+    margin: 54px  auto auto 410px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ikonka_futer2{
+    margin: 54px  auto auto 505px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ikonka_futer3{
+    margin: 54px  auto auto 600px  ;
+    position: absolute;
+    z-index: 0;
+}
+#ikonka_futer4{
+    margin: 54px  auto auto 695px  ;
+    position: absolute;
+    z-index: 0;
+}
+
+/* Базовые стили слоя затемнения и модального окна  */
+.overlay {
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 10;
+    display: none;
+/* фон затемнения */
+    background-color: rgba(0, 0, 0, 0.65);
+    position: fixed; /* фиксированное поцизионирование */
+    cursor: default; /* тип курсара */
+}
+/* активируем слой затемнения */
+.overlay:target {
+    display: block;
+}
+/* стили модального окна */
+.popup {
+    top: -100%;
+    right: 0;
+    left: 50%;
+    font-size: 14px;
+    z-index: 20;
+    margin: 0;
+    height: 417px;
+    width: 601px;
+/* фиксированное позиционирование, окно стабильно при прокрутке */
+    position: fixed;
+    padding: 0px;
+    border: 1px solid #383838;
+    background: #ffffff;
+/* скругление углов */
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    border-radius: 15px;
+    font: 14px/18px 'Tahoma', Arial, sans-serif;
+/* внешняя тень */
+    -webkit-box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+    -moz-box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+    -ms-box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+    box-shadow: 0 15px 20px rgba(0,0,0,.22),0 19px 60px rgba(0,0,0,.3);
+    -webkit-transform: translate(-50%, -500%);
+    -ms-transform: translate(-50%, -500%);
+    -o-transform: translate(-50%, -500%);
+    transform: translate(-50%, -500%);
+    -webkit-transition: -webkit-transform 0.6s ease-out;
+    -moz-transition: -moz-transform 0.6s ease-out;
+    -o-transition: -o-transform 0.6s ease-out;
+    transition: transform 0.6s ease-out;
+}
+/* активируем модальный блок */
+.overlay:target+.popup {
+    -webkit-transform: translate(-50%, 0);
+    -ms-transform: translate(-50%, 0);
+    -o-transform: translate(-50%, 0);
+    transform: translate(-50%, 0);
+    top: 20%;
+}
+/* формируем кнопку закрытия */
+.close {
+    top: -10px;
+    right: -10px;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    padding: 0;
+    border: 2px solid #ccc;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    border-radius: 15px;
+    background-color: rgba(61, 61, 61, 0.8);
+    -webkit-box-shadow: 0px 0px 10px #000;
+    -moz-box-shadow: 0px 0px 10px #000;
+    box-shadow: 0px 0px 10px #000;
+    text-align: center;
+    text-decoration: none;
+    font: 13px/20px 'Tahoma', Arial, sans-serif;
+    font-weight: bold;
+    -webkit-transition: all ease .8s;
+    -moz-transition: all ease .8s;
+    -ms-transition: all ease .8s;
+    -o-transition: all ease .8s;
+    transition: all ease .8s;
+}
+.close:before {
+    color: rgba(255, 255, 255, 0.9);
+    content: "X";
+    text-shadow: 0 -1px rgba(0, 0, 0, 0.9);
+    font-size: 12px;
+}
+.close:hover {
+    background-color: rgba(252, 20, 0, 0.8);
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);    
+}
+
+
+
+/* параграфы */
+.popup p {margin: 0; padding: 5px 0}
+
+/* погнали делать модальное окно внутри*/
+#mr1{
+    margin: 29px  auto auto 28px ;
+    position: absolute;
+    z-index: 0;    
+}
+#mr1:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#mr2{
+    margin: 29px  auto auto 28px ;
+    position: absolute;
+    z-index: 0;  
+    opacity:0;
+    filter:alpha (opacity=0);  
+}
+#mr2:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+    opacity:1;
+    filter:alpha (opacity=100);
+}
+
+#name_klienta{
+    border: 3px;
+    margin: 68px  auto auto 148px ;
+    height: 42px;
+     width: 180px;
+    background: #e1e1e1;
+    position: absolute;
+    pading: 3%;
+    font-size: 120%;
+    font-family: ;
+
+}
+#familya_klienta{
+    border: 3px;
+    margin: 68px  auto auto 367px  ;
+    height: 42px;
+    width: 180px;
+    background: #e1e1e1;
+    position: absolute;
+}
+#gde_svazatsya{
+    border: 3px;
+    margin: 272px  auto auto   122px;
+    height: 42px;
+    width: 353px;
+    background: #e1e1e1;
+    position: absolute;
+}
+.g1 {
+    margin: 188px  auto auto 47px ;
+    position: absolute;
+    z-index: 20px;
+    opacity:1;
+    filter:alpha (opacity=100);
+}
+.g1:hover {
+    opacity:0;
+    filter:alpha (opacity=0);
+}
+
+.g1_2 {
+     margin: 188px  auto auto 47px ;
+     position: absolute;
+     z-index: 21px;
+     opacity:0;
+     filter:alpha (opacity=0);
+}
+.g1_2:hover{
+    opacity:1;
+    filter:alpha (opacity=100);
+}
+
+
+#g2 {
+    margin: 188px  auto auto 106px ;
+    position: absolute;
+    z-index: 20px; 
+     opacity:1;
+    filter:alpha (opacity=100); 
+}
+#g2:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g2_2 {
+    margin: 188px  auto auto 106px ;
+    position: absolute;
+    z-index: 20px; 
+    opacity:0;
+    filter:alpha (opacity=0);
+    
+}
+#g2_2:hover{
+    
+     opacity:1;
+    filter:alpha (opacity=100); 
+}
+
+#g3 {
+    margin: 188px  auto auto 164px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g3:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g3_3 {
+    margin: 188px  auto auto 164px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:0;
+    filter:alpha (opacity=0);
+}
+#g3_3:hover{
+ opacity:1;
+    filter:alpha (opacity=100);
+     
+}
+#g4 {
+    margin: 188px  auto auto 222px ;
+    position: absolute;
+    z-index: 20px; 
+     opacity:1;
+    filter:alpha (opacity=100); 
+}
+#g4:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g4_4 {
+    margin: 188px  auto auto 222px ;
+    position: absolute;
+    z-index: 20px; 
+    opacity:0;
+    filter:alpha (opacity=0);
+    }
+#g4_4:hover{
+     opacity:1;
+    filter:alpha (opacity=100); 
+}
+#g5 {
+    margin: 188px  auto auto 280px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g5:hover{
+        opacity:0;
+    filter:alpha (opacity=0);
+}
+#g5_5 {
+    margin: 188px  auto auto 280px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:0;
+    filter:alpha (opacity=0);
+    }
+
+#g5_5:hover{
+opacity:1;
+    filter:alpha (opacity=100);
+       
+}
+#g6 {
+    margin: 188px  auto auto 338px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g6:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g6_6 {
+    margin: 188px  auto auto 338px ;
+    position: absolute;
+    z-index: 20px;  
+    
+     opacity:0;
+    filter:alpha (opacity=0);
+}
+#g6_6:hover{
+      opacity:1;
+    filter:alpha (opacity=100);
+}
+#g7 {
+    margin: 188px  auto auto 396px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g7:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g7_7 {
+    margin: 188px  auto auto 396px ;
+    position: absolute;
+    z-index: 20px;  
+    opacity:0;
+    filter:alpha (opacity=0);
+}
+#g7_7:hover{opacity:1;
+    filter:alpha (opacity=100);
+      
+}
+#g8 {
+    margin: 188px  auto auto 454px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g8:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g8_8 {
+    margin: 188px  auto auto 454px ;
+    position: absolute;
+    z-index: 20px;  
+       opacity:0;
+    filter:alpha (opacity=0);
+}
+#g8_8:hover{ opacity:1;
+    filter:alpha (opacity=100);
+   
+}
+#g9 {
+    margin: 188px  auto auto 512px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g9:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g9_9 {
+    margin: 188px  auto auto 493px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:0;
+    filter:alpha (opacity=0);
+}
+#g9_9:hover{ opacity:1;
+    filter:alpha (opacity=100);
+      
+}
+
+#g10 {
+    margin: 347px  auto auto 243px ;
+    position: absolute;
+    z-index: 20px;  
+     opacity:1;
+    filter:alpha (opacity=100);
+}
+#g10:hover{
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g10_2 {
+    margin: 347px  auto auto 243px ;
+    position: absolute;
+    z-index: 20px;  
+      opacity:0;
+    filter:alpha (opacity=0);
+}
+#g10_2:hover{  opacity:1;
+    filter:alpha (opacity=100);
+     
+}
